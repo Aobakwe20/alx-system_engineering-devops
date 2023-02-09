@@ -1,2 +1,2 @@
-#!/bim/bash
-chmo -R +X .
+#!/bin/bash
+chmod -R +X .
